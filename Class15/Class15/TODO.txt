@@ -1,0 +1,6 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= TODO -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+* make cache invalidation in Polygon getArea() method !!!
+
+
