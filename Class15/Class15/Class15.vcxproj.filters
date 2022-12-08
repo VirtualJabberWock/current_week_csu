@@ -24,6 +24,9 @@
     <Filter Include="aquaUtils\utils">
       <UniqueIdentifier>{01d493cb-a468-4cc6-b07a-649330e2fe8e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="geometry\model">
+      <UniqueIdentifier>{ab30a3aa-e243-4d48-b060-26b6857047d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\aquaUtils\BasicDataStructs.c">
@@ -56,11 +59,20 @@
     <ClCompile Include="..\..\aquaUtils\utils\StringUtils.c">
       <Filter>aquaUtils\utils</Filter>
     </ClCompile>
-    <ClCompile Include="Prism.c">
-      <Filter>geometry</Filter>
-    </ClCompile>
     <ClCompile Include="PlaneInSpace.c">
       <Filter>geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Dimensions.c">
+      <Filter>geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.c">
+      <Filter>geometry\model</Filter>
+    </ClCompile>
+    <ClCompile Include="Prism.c">
+      <Filter>geometry\model</Filter>
+    </ClCompile>
+    <ClCompile Include="Pyramid.c">
+      <Filter>geometry\model</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -94,14 +106,20 @@
     <ClInclude Include="..\..\aquaUtils\utils\StringUtils.h">
       <Filter>aquaUtils\utils</Filter>
     </ClInclude>
-    <ClInclude Include="Prism.h">
-      <Filter>geometry</Filter>
-    </ClInclude>
     <ClInclude Include="Dimensions.h">
       <Filter>geometry</Filter>
     </ClInclude>
     <ClInclude Include="PlaneInSpace.h">
       <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>geometry\model</Filter>
+    </ClInclude>
+    <ClInclude Include="Prism.h">
+      <Filter>geometry\model</Filter>
+    </ClInclude>
+    <ClInclude Include="Pyramid.h">
+      <Filter>geometry\model</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

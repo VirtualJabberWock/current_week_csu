@@ -1,0 +1,70 @@
+﻿  BasicDataStructs.c
+  LinkedList.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(43,72): warning C4047: return: "c_node *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(76,71): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(85,5): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(93,74): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(112,5): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(126,73): warning C4098: LinkedListDisplay: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(134,75): warning C4098: ForEachInLinkedList: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(144,71): warning C4028: формальный параметр 3 отличается от объявления
+  List.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(23,64): warning C4098: _List_pushBack: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(51,65): warning C4098: _List_pushFront: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(73,60): warning C4047: return: "node *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(88,61): warning C4098: _List_clear: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(105,59): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(106,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(110,4): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(118,72): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(126,72): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(136,62): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(142,20): warning C4133: =: несовместимые типы - из "c_node *" в "node *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(155,5): warning C4047: return: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(161,24): warning C4133: =: несовместимые типы - из "c_node *" в "node *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(140,11): warning C4133: инициализация: несовместимые типы - из "tagNode *" в "c_node *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(146,10): warning C4133: инициализация: несовместимые типы - из "node *" в "c_node *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(181,61): warning C4098: ListDisplay: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(189,63): warning C4098: ForEachInList: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(229,65): warning C4098: _Private_SwapNodes: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(231,52): warning C4098: _Private_SwapNodes: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(233,73): warning C4098: _Private_SwapNodes: функция типа "void", возвращающая значение
+  AquaTypes.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(23,37): warning C4133: =: несовместимые типы - из "void **" в "const char **"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(61,24): warning C4133: =: несовместимые типы - из "void **" в "const char **"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(143,61): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(166,39): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(177,75): warning C4133: функция: несовместимые типы - из "LongV *" в "IntV *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(178,77): warning C4133: функция: несовместимые типы - из "StringV *" в "IntV *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(179,77): warning C4133: функция: несовместимые типы - из "DoubleV *" в "IntV *"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(202,24): warning C4133: =: несовместимые типы - из "void **" в "const char **"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(220,35): warning C4090: =: разные квалификаторы "const"
+  ExtendedTypes.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\ExtendedTypes.c(41,61): warning C4047: return: "HashMap *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\ExtendedTypes.c(51,48): warning C4047: return: "DataBox *" отличается по уровням косвенного обращения от "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\ExtendedTypes.c(133,68): warning C4098: HASHMAP_Default_dispose: функция типа "void", возвращающая значение
+  ArrayUtils.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\ArrayUtils.c(22,22): warning C4133: функция: несовместимые типы - из "int **" в "char **"
+  DebugUtils.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\DebugUtils.c(41,21): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\DebugUtils.c(43,16): warning C4090: функция: разные квалификаторы "const"
+  FileUtils.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\FileUtils.h(11,1): warning C4005: ERROR_BUFFER_OVERFLOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(954,1): message : см. предыдущее определение "ERROR_BUFFER_OVERFLOW"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\FileUtils.c(31,43): warning C4098: readAllLines_s: функция типа "void", возвращающая значение
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\FileUtils.c(35,39): warning C4047: =: "int" отличается по уровням косвенного обращения от "char *"
+  StringUtils.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\StringUtils.c(194,20): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\StringUtils.c(195,59): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\StringUtils.c(203,18): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\utils\StringUtils.c(204,57): warning C4090: функция: разные квалификаторы "const"
+  main.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\Class15\Task2\main.c(29,57): warning C4098: fillIn: функция типа "void", возвращающая значение
+  Создание кода...
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\ExtendedTypes.c(46): warning C4715: WrapDataBox: значение возвращается не при всех путях выполнения
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(52): warning C4172: возвращение адреса локальной или временной переменной : iv
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\model\AquaTypes.c(45): warning C4172: возвращение адреса локальной или временной переменной : sv
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\List.c(131): warning C4715: _List_get: значение возвращается не при всех путях выполнения
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(72): warning C4715: _LinkedList_clear: значение возвращается не при всех путях выполнения
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\aquaUtils\dataStructs\LinkedList.c(39): warning C4715: _LinkedList_pushBack: значение возвращается не при всех путях выполнения
+  Task2.vcxproj -> C:\Users\aquahaze\Documents\GitHub\current_week_csu\Class15\Debug\Task2.exe

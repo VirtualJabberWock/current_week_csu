@@ -28,9 +28,12 @@
     <ClCompile Include="..\..\aquaUtils\utils\DebugUtils.c" />
     <ClCompile Include="..\..\aquaUtils\utils\FileUtils.c" />
     <ClCompile Include="..\..\aquaUtils\utils\StringUtils.c" />
+    <ClCompile Include="Dimensions.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="PlaneInSpace.c" />
     <ClCompile Include="Prism.c" />
+    <ClCompile Include="Pyramid.c" />
+    <ClCompile Include="Sphere.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\aquaUtils\BasicDataStructs.h" />
@@ -46,6 +49,8 @@
     <ClInclude Include="Dimensions.h" />
     <ClInclude Include="PlaneInSpace.h" />
     <ClInclude Include="Prism.h" />
+    <ClInclude Include="Pyramid.h" />
+    <ClInclude Include="Sphere.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="TODO.txt" />
