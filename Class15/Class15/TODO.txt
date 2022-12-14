@@ -1,6 +1,0 @@
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= TODO -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-* make cache invalidation in Polygon getArea() method !!! : DONE!
-* allow to create [Not parallel to plane] Prism; (and maaybe allow to rotate it);
-* pre-calculate height of generic pyramid 

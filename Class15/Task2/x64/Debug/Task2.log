@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\aquahaze\Documents\GitHub\current_week_csu\Class15\Task2\main.c(29,57): warning C4098: fillIn: функция типа "void", возвращающая значение
-  Task2.vcxproj -> C:\Users\aquahaze\Documents\GitHub\current_week_csu\Class15\x64\Debug\Task2.exe
