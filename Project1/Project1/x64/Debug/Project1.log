@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\Project1\Project1\main.c(16,42): warning C4090: функция: разные квалификаторы "const"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\Project1\Project1\main.c(20,2): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\Project1\Project1\main.c(23,33): warning C4090: функция: разные квалификаторы "const"
+  Project1.vcxproj -> C:\Users\aquahaze\Documents\GitHub\current_week_csu\Project1\x64\Debug\Lab3.exe
