@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\AssemblyInsert\AssemblyInsert\main.cpp(87,1): warning C4506: нет определения для подставляемой функции "std::wstring WinMemUtils::strToWide(const std::string &)"
+     Создается библиотека C:\Users\aquahaze\Documents\GitHub\current_week_csu\AssemblyInsert\x64\Release\AssemblyInsert.lib и объект C:\Users\aquahaze\Documents\GitHub\current_week_csu\AssemblyInsert\x64\Release\AssemblyInsert.exp
+  Создание кода
+  1 of 395 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AssemblyInsert.vcxproj -> C:\Users\aquahaze\Documents\GitHub\current_week_csu\AssemblyInsert\x64\Release\AssemblyInsert.exe
