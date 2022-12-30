@@ -1,0 +1,2 @@
+C:\Users\aqua\source\repos\PipelinesTest\Debug\PipelinesTest.dll
+C:\Users\aqua\source\repos\PipelinesTest\Debug\PipelinesTest.pdb

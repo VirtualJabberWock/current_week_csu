@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\server">
+      <UniqueIdentifier>{a8757a2c-675e-4f0d-bd9c-7cdba1fc9c59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\nethandler">
+      <UniqueIdentifier>{afbc4d74-0b5c-49a1-88bc-9d239c15a804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\hooker">
+      <UniqueIdentifier>{73daa10c-af2e-4fb1-80ea-ecb38bbf4c03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\dynamichook">
+      <UniqueIdentifier>{ce754a00-5519-4281-9d86-9e3464023407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\jvm">
+      <UniqueIdentifier>{4b9ec2b2-7ed8-4ec1-ba86-863954e546a0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pipeline.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="dllmain.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="SocketHandler.h">
+      <Filter>Исходные файлы\nethandler</Filter>
+    </ClInclude>
+    <ClInclude Include="NetCore.h">
+      <Filter>Исходные файлы\server</Filter>
+    </ClInclude>
+    <ClInclude Include="DataBlock.h">
+      <Filter>Исходные файлы\server</Filter>
+    </ClInclude>
+    <ClInclude Include="FormatUtils.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="API.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MemUtils.h">
+      <Filter>Исходные файлы\hooker</Filter>
+    </ClInclude>
+    <ClInclude Include="HookListner.h">
+      <Filter>Исходные файлы\dynamichook</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticHooks.h">
+      <Filter>Исходные файлы\dynamichook</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="FMLCommonHandler.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="jvm\JavaAgent.h">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClInclude>
+    <ClInclude Include="jvm\JavaClass.h">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClInclude>
+    <ClInclude Include="jvm\JVMClassLoader.h">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClInclude>
+    <ClInclude Include="JavaContext.h">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClInclude>
+    <ClInclude Include="jvm\JavaObject.h">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="NetCore.cpp">
+      <Filter>Исходные файлы\server</Filter>
+    </ClCompile>
+    <ClCompile Include="SocketHandler.cpp">
+      <Filter>Исходные файлы\nethandler</Filter>
+    </ClCompile>
+    <ClCompile Include="DataBlock.cpp">
+      <Filter>Исходные файлы\server</Filter>
+    </ClCompile>
+    <ClCompile Include="Pipeline.cpp">
+      <Filter>Исходные файлы\server</Filter>
+    </ClCompile>
+    <ClCompile Include="MemUtils.cpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="HookListner.cpp">
+      <Filter>Исходные файлы\dynamichook</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticHooks.cpp">
+      <Filter>Исходные файлы\dynamichook</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="jvm\JavaAgent.cpp">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClCompile>
+    <ClCompile Include="jvm\JavaClass.cpp">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClCompile>
+    <ClCompile Include="jvm\JVMClassLoader.cpp">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClCompile>
+    <ClCompile Include="JavaContext.cpp">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClCompile>
+    <ClCompile Include="jvm\JavaObject.cpp">
+      <Filter>Исходные файлы\jvm</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\aquanh\program.cs" />
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

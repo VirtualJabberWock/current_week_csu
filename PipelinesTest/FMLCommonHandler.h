@@ -1,0 +1,1 @@
+#pragma oncestatic char* fml_bytecode() {	return 0;}

@@ -1,0 +1,3 @@
+﻿  Pipeline.cpp
+C:\Users\aqua\source\repos\PipelinesTest\Pipeline.cpp(28,8): warning C4101: bytesWritten: неиспользованная локальная переменная
+  PipelinesTest.vcxproj -> C:\Users\aqua\source\repos\PipelinesTest\Debug\PipelinesTest.dll

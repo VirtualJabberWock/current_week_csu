@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(33,18): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(33,13): warning C4552: ">>": результат выражения не используется
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(31,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(54,9): warning C4013: __builtin_ctz: нет определения; предполагается "extern" с возвратом типа "int"
+     Создается библиотека C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\Release\M23.lib и объект C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\Release\M23.exp
+main.obj : error LNK2001: неразрешенный внешний символ ___builtin_ctz.
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\Release\M23.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

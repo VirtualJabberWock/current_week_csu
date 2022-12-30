@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(30,18): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(30,13): warning C4552: ">>": результат выражения не используется
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(28,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(43,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\aquahaze\Documents\GitHub\current_week_csu\M23\M23\main.c(47,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  dllmain.cpp
+C:\Users\aquahaze\source\PipelinesTest\FormatUtils.h(47,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aquahaze\source\PipelinesTest\HookListner.h(36,13): warning C4101: hook_type: неиспользованная локальная переменная
+C:\Users\aquahaze\source\PipelinesTest\dllmain.cpp(142,33): warning C4326: возвращаемый тип "main" должен быть "int", а не "DWORD"
+  JVMClassLoader.cpp
+C:\Users\aquahaze\source\PipelinesTest\FormatUtils.h(47,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека ..\AquaNH\bin\Release\PipelinesTest.lib и объект ..\AquaNH\bin\Release\PipelinesTest.exp
+  Создание кода
+  94 of 1172 functions ( 8.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    74 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PipelinesTest.vcxproj -> C:\Users\aquahaze\source\AquaNH\bin\Release\PipelinesTest.dll
